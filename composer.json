@@ -1,0 +1,13 @@
+{
+    "name": "adrien/twig1",
+    "authors": [
+        {
+            "name": "mayard689",
+            "email": "doc-albert@laposte.net"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0",
+        "twbs/bootstrap": "4.1.3"
+    }
+}
